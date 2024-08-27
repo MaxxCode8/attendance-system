@@ -1,0 +1,7 @@
+deepface==0.0.93
+numpy==2.1.0
+opencv_python==4.10.0.84
+pandas==2.2.2
+retina_face==0.0.17
+streamlit==1.36.0
+tf-keras==2.17.0
